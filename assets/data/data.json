@@ -1,0 +1,107 @@
+{
+    "title": "Juan Andres Silva Hernandez | Portafolio",
+    "description": "Estudiante de Ingenieria de Software | Java & SQL",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Juan Andres Silva Hernandez",
+    "skill": "Estudiante de Ingenieria de Software | Java & SQL",
+    "location": "Bogota, Colombia",
+    "media": {
+        "email": "juanandres.silva.dev@gmail.com",
+        "cv": "/data/cv.pdf",
+        "github": "https://github.com/jasilvahdev",
+        "likedin": "https://www.linkedin.com/in/juan-andres-silva-hernandez-543177416/"
+    },
+    "about": "Bachiller tecnico y estudiante de Ingenieria de Software, con interes en el desarrollo de paginas web, sistemas de inventario y bases de datos. Manejo Java y SQL, y disfruto brindar soporte tecnico y mantener sistemas actualizados. Orientado a resultados, con enfoque en la mejora continua, la planeacion y la organizacion.",
+    "technologies": [
+        {
+            "icon": "devicon-java-plain",
+            "name": "Java"
+        },
+        {
+            "icon": "devicon-mysql-plain",
+            "name": "SQL"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        }
+    ],
+    "experience": [],
+    "projects": [
+        {
+            "icon": "warehouse",
+            "title": "Sistema de Inventario - Taller de Suspensiones",
+            "subtitle": "Proyecto universitario en Java (POO)",
+            "description": "Aplicacion de escritorio en Java para gestionar el inventario de un taller de suspensiones automotrices. Implementa herencia (Vehiculo -> CarroH), una clase abstracta Suspension con tres tipos (Hidraulica, Neumatica, Mecanica) usando polimorfismo, e interfaz grafica con Java Swing para registrar y consultar los vehiculos.",
+            "technologies": [
+                {
+                    "icon": "devicon-java-plain",
+                    "name": "Java"
+                }
+            ],
+            "image": "/project_1.jpg",
+            "url": "",
+            "github": "https://github.com/jasilvahdev/inventario-taller-suspensiones"
+        }
+    ],
+    "training": [
+        {
+            "icon": "graduation-cap",
+            "title": "Fundacion Universitaria Compensar",
+            "subtitle": "Ingenieria de Software",
+            "description": "Estudiante activo del programa de Ingenieria de Software.",
+            "date": "En curso"
+        },
+        {
+            "icon": "backpack",
+            "title": "Liceo Nuestra Señora de las Nieves",
+            "subtitle": "Bachiller Tecnico en Contabilizacion de Operaciones Comerciales y Financieras",
+            "description": "Formacion tecnica en procesos contables y financieros.",
+            "date": "Noviembre 2025"
+        },
+        {
+            "icon": "award",
+            "title": "Oracle Academy",
+            "subtitle": "Java Foundations",
+            "description": "Certificacion en fundamentos de programacion en Java.",
+            "date": "Mayo 2026"
+        },
+        {
+            "icon": "award",
+            "title": "Oracle Academy",
+            "subtitle": "Java Fundamentals",
+            "description": "Certificacion en fundamentos de Java.",
+            "date": "Octubre 2025"
+        },
+        {
+            "icon": "award",
+            "title": "Oracle Academy",
+            "subtitle": "Database Programming with SQL",
+            "description": "Certificacion en programacion de bases de datos con SQL.",
+            "date": "Mayo 2026"
+        },
+        {
+            "icon": "award",
+            "title": "Oracle Academy",
+            "subtitle": "Database Foundations",
+            "description": "Certificacion en fundamentos de bases de datos.",
+            "date": "Octubre 2025"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Power BI",
+            "subtitle": "Curso de introduccion",
+            "description": "Curso introductorio a Power BI para analisis y visualizacion de datos.",
+            "date": "Abril 2025"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Fundacion Universitaria Compensar",
+            "subtitle": "Taller de Orientacion Laboral",
+            "description": "Taller enfocado en preparacion para la busqueda de empleo y orientacion profesional.",
+            "date": "Junio 2026"
+        }
+    ],
+    "extras": []
+}
