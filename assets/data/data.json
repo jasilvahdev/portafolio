@@ -101,6 +101,13 @@
             "subtitle": "Taller de Orientacion Laboral",
             "description": "Taller enfocado en preparacion para la busqueda de empleo y orientacion profesional.",
             "date": "Junio 2026"
+        },
+        {
+            "icon": "languages",
+            "title": "EF SET English Certificate",
+            "subtitle": "Nivel B2 - Upper Intermediate (53/100)",
+            "description": "Certificacion de nivel de ingles EF SET, con puntajes B1 en lectura y escucha, y B2 en escritura y habla.",
+            "date": "Agosto 2026"
         }
     ],
     "extras": []
